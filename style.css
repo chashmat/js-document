@@ -1,0 +1,54 @@
+
+html{
+    scroll-behavior: smooth;
+}
+nav{
+    background-color: rgb(33, 33, 33);
+    color: deepskyblue;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    height: 118px;
+    margin-top: 20px;
+}
+nav a:hover{
+    background-color: rgba(78, 67, 67, 0.5);
+}
+nav a{
+    margin-top: 15px;
+    padding: 10px;
+    color: rgb(32, 197, 252);
+    text-decoration: none;
+}
+section{
+    margin-left: 50px;
+    /*width: 100%;
+    background-color: orange;*/
+}
+code{
+    background-color: #eee;
+    padding: 5px 25px;
+    border-radius: 4px;
+}
+a{
+    font-family: monospace;
+}
+#heading1{
+    font-family: monospace;
+}
+h1{
+    font-family: fantasy;
+    font-weight: 100;
+}
+p{
+    font-family: monospace;
+    font-size: 15px;
+}
+ul li{
+    font-family: monospace;
+    font-size: 15px;
+}
+code{
+    font-family: monospace;
+    font-size: 15px;
+}
